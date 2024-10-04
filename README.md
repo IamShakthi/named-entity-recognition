@@ -25,8 +25,8 @@ We build a build a model using Input, Embedding, Bidirectional LSTM, Spatial Dro
 We compile the model and fit the train sets and validation sets,We plot the necessary graphs for analysis, A custom prediction is done to test the model manually.
 
 ## PROGRAM
-### Name: ARUN KUMAR SUKDEV CHAVAN
-### Reg no: 212222230013
+### Name: YUVASAKTHI N.C
+### Reg no: 212222240120
 ```python
 import pandas as pd
 import numpy as np
